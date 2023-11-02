@@ -17,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daviaugustoo&show_icons=true&locale=en&layout=compact" alt="daviaugustoo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daviaugustoo&show_icons=true&locale=en" alt="daviaugustoo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daviaugustoo&" alt="daviaugustoo" /></p>
